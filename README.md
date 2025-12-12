@@ -1,8 +1,8 @@
-# Hi 👋, I'm Diego Gonzalez
+<h1 align="center">Hi 👋, I'm Diego Gonzalez</h1>
 
-### UCLA Computer Science Student with a Passion for Building and Learning
+<h3 align="center">UCLA Computer Science Student with a Passion for Building and Learning</h3>
 
-- 🔭 I'm currently working on ** preparing for technical interviews and building my personal website.**
+- 🔭 I'm currently working on **preparing for technical interviews and building my personal website.**
 
 - 🌱 I'm currently learning **TypeScript & Next.js.**
 
