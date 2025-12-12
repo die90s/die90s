@@ -1,18 +1,16 @@
-<h1 align="center">Hi 👋, I'm Diego Gonzalez</h1>
+<h1 align="center">Diego Gonzalez</h1>
 
 <h3 align="center">UCLA Computer Science Student with a Passion for Building and Learning</h3>
 
-- 🔭 I'm currently working on **preparing for technical interviews and building my personal website.**
+- Currently working on **preparing for technical interviews and building my personal website.**
 
-- 🌱 I'm currently learning **TypeScript & Next.js.**
+- Currently learning **TypeScript & Next.js.**
 
-- 🤝 I'm looking for help with **finding internship opportunities.**
+- Looking for help with **finding internship opportunities.**
 
-- 📫 How to reach me **diegoadrian@ucla.edu**
+- Reach me at: **diegoadrian@ucla.edu**
 
-- ⚡ Fun fact **I recently went bungee jumping in Costa Rica!**
-
-- 📄 Know about my experiences **[https://drive.google.com/drive/folders/1xn09X0WLhtiMsLKNQS9PtKqZKRoORPpj?usp=sharing](https://drive.google.com/drive/folders/1xn09X0WLhtiMsLKNQS9PtKqZKRoORPpj?usp=sharing)**
+- Fun fact: **I recently went bungee jumping in Costa Rica!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
