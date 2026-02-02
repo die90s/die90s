@@ -6,18 +6,6 @@
 
 ---
 
-## About Me
-
-```typescript
-const diego = {
-    status: "Student",
-    location: "Los Angeles, CA",
-    education: "University of California, Los Angeles",
-    major: "Computer Science B.S.",
-    lookingFor: "SWE Internship Opportunities"
-};
-```
-
 ## Tech Stack
 
 <div align="center">
@@ -49,10 +37,3 @@ const diego = {
 
 </div>
 
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=die90s&color=2E9EF7&style=flat-square&label=Profile+Views)
-
-</div>
